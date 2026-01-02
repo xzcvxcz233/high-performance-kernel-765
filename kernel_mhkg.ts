@@ -1,0 +1,1 @@
+const service_mhkg = <T>(args: T): T => { return args; };
