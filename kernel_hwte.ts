@@ -1,0 +1,1 @@
+const service_hwte = <T>(args: T): T => { return args; };
